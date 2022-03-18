@@ -15,13 +15,10 @@ My first project "Wheel of Fortune" is a game named after American TV programm w
 7) If you finished the game (opened the whole word or stopped it by yourself), it will print "конец"
 ## Extra functions
 
-!p - print the quantity of attempts left
-
-!l - print the list of letters left
-
-!u - print the list of used letters
-
-!e - stop current try
+    !p - print the quantity of attempts left
+    !l - print the list of letters left
+    !u - print the list of used letters
+    !e - stop current try
 
 !h - list of the commands
 # Поле Чудес
